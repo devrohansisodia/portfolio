@@ -1,0 +1,428 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - navigation [ref=e5]:
+      - link "RS Rohan Singh Laravel / Bagisto / Vue.js Developer" [ref=e6] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e7]: RS
+        - generic [ref=e8]:
+          - paragraph [ref=e9]: Rohan Singh
+          - paragraph [ref=e10]: Laravel / Bagisto / Vue.js Developer
+      - generic [ref=e11]:
+        - link "About" [ref=e12] [cursor=pointer]:
+          - /url: "#about"
+        - link "NewsTech" [ref=e13] [cursor=pointer]:
+          - /url: "#featured-project"
+        - link "Skills" [ref=e14] [cursor=pointer]:
+          - /url: "#skills"
+        - link "Projects" [ref=e15] [cursor=pointer]:
+          - /url: "#projects"
+        - link "Experience" [ref=e16] [cursor=pointer]:
+          - /url: "#experience"
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e18]:
+        - button "Switch to light mode" [active] [ref=e427] [cursor=pointer]:
+          - generic [ref=e428]: ☀
+        - link "Resume" [ref=e21] [cursor=pointer]:
+          - /url: /resume/rohan-singh-resume.pdf
+  - main [ref=e22]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]: Open to Opportunities
+          - generic [ref=e30]: Balanced Product + Developer Portfolio
+        - heading "Rohan Singh" [level=1] [ref=e31]
+        - paragraph [ref=e32]: Laravel / Bagisto / Vue.js Developer
+        - paragraph [ref=e33]: Building scalable eCommerce, SaaS, marketplace, POS, payment and shipping solutions.
+        - paragraph [ref=e34]: Full Stack Laravel Developer building production-grade Bagisto modules, SaaS platforms, APIs, and Vue.js interfaces for commerce-heavy products.
+        - generic [ref=e35]:
+          - generic [ref=e36]: 15+ Bagisto Modules
+          - generic [ref=e37]: 40+ Client Customizations
+          - generic [ref=e38]: 6 Payment Integrations
+          - generic [ref=e39]: 3+ Years Experience
+        - generic [ref=e40]:
+          - link "View Projects" [ref=e41] [cursor=pointer]:
+            - /url: "#projects"
+          - link "Download Resume" [ref=e42] [cursor=pointer]:
+            - /url: /resume/rohan-singh-resume.pdf
+          - link "GitHub" [ref=e43] [cursor=pointer]:
+            - /url: https://github.com/devrohansisodia
+          - link "LinkedIn" [ref=e44] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/rohan-singh
+          - link "Contact Me" [ref=e45] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e46]:
+          - paragraph [ref=e47]: Current Momentum
+          - paragraph [ref=e48]: Currently building NewsTech, a modular Laravel news CMS with a package-first architecture.
+      - generic [ref=e51]:
+        - img "Portrait of Rohan Singh" [ref=e53]
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: Developer Snapshot
+          - generic [ref=e56]:
+            - paragraph [ref=e57]: "Focus: eCommerce, SaaS, marketplace, POS"
+            - paragraph [ref=e58]: "Latest Flagship: NewsTech"
+            - paragraph [ref=e59]: "Location: Delhi, India"
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - paragraph [ref=e63]: About
+        - heading "Building production-ready commerce systems with modular Laravel architecture." [level=2] [ref=e64]
+        - paragraph [ref=e65]: Full Stack Laravel Developer specializing in Bagisto, scalable eCommerce workflows, and practical Vue.js interfaces.
+      - generic [ref=e66]:
+        - generic [ref=e67]: Delivered marketplace, SaaS, POS, payment, shipping, and business workflow modules.
+        - generic [ref=e68]: Worked across REST APIs, GraphQL, caching, performance tuning, and multi-tenant flows.
+        - generic [ref=e69]: Mentored junior developers and contributed to review-driven delivery teams.
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]: Currently Building
+        - generic [ref=e75]:
+          - paragraph [ref=e76]: Flagship Project
+          - heading "NewsTech — Modular Laravel News CMS" [level=2] [ref=e77]
+          - paragraph [ref=e78]: NewsTech is a modular Laravel-based news platform built with a Bagisto-like package architecture. It includes a frontend news website, admin dashboard, article management, media library, SEO toolkit, comments, bookmarks, advertisement manager, sitemap, RSS feeds, and reader features.
+        - generic [ref=e79]:
+          - generic [ref=e80]: Modular Architecture
+          - generic [ref=e81]: Admin Dashboard
+          - generic [ref=e82]: SEO Toolkit
+          - generic [ref=e83]: Media Library
+          - generic [ref=e84]: Comments & Readers
+          - generic [ref=e85]: Advertisement Manager
+        - generic [ref=e86]:
+          - generic [ref=e87]: Frontend news website and reader features
+          - generic [ref=e88]: Structured content admin for articles, categories, tags, and authors
+          - generic [ref=e89]: Reusable media library and rich editor workflows
+          - generic [ref=e90]: SEO toolkit, sitemap, RSS, and production-facing publishing utilities
+        - generic [ref=e91]:
+          - generic [ref=e92]: Laravel
+          - generic [ref=e93]: PHP
+          - generic [ref=e94]: Vue.js
+          - generic [ref=e95]: Blade
+          - generic [ref=e96]: Tailwind CSS
+          - generic [ref=e97]: MySQL
+          - generic [ref=e98]: Vite
+          - generic [ref=e99]: PHPUnit
+          - generic [ref=e100]: Modular Package Architecture
+        - generic [ref=e101]:
+          - link "View GitHub Repository" [ref=e102] [cursor=pointer]:
+            - /url: https://github.com/devrohansisodia/newstech
+          - generic [ref=e103]: Live Demo Coming Soon
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - paragraph [ref=e106]: Architecture Lens
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - paragraph [ref=e109]: Packages
+              - paragraph [ref=e110]: Bagisto-style modular package boundaries for feature isolation and growth.
+            - generic [ref=e111]:
+              - paragraph [ref=e112]: Reader Experience
+              - paragraph [ref=e113]: Frontend website, comments, bookmarks, feeds, and production-facing content discovery.
+            - generic [ref=e114]:
+              - paragraph [ref=e115]: Publishing Ops
+              - paragraph [ref=e116]: Admin workflows for articles, media, SEO, ads, and structured publishing controls.
+            - generic [ref=e117]:
+              - paragraph [ref=e118]: Future Preview Slot
+              - paragraph [ref=e119]: Section layout is designed to accept future screenshots, admin previews, or visual product mockups without structural changes.
+        - generic [ref=e120]:
+          - paragraph [ref=e121]: Why It Matters
+          - paragraph [ref=e122]: NewsTech demonstrates modular Laravel architecture, admin tooling, reader-facing product design, and practical content operations in one cohesive flagship build.
+    - generic [ref=e123]:
+      - generic [ref=e124]:
+        - paragraph [ref=e125]: Specializations
+        - heading "Focused on recruiter-relevant commerce and product engineering domains." [level=2] [ref=e126]
+        - paragraph [ref=e127]: The strongest fit sits at the intersection of Laravel, Bagisto, modular product architecture, and operational eCommerce systems.
+      - generic [ref=e128]:
+        - article [ref=e129]:
+          - heading "eCommerce Solutions" [level=3] [ref=e130]
+          - paragraph [ref=e131]: Storefronts, checkout flows, catalogs, business rules, and operational tooling.
+        - article [ref=e132]:
+          - heading "Marketplace Development" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Vendor onboarding, seller dashboards, commissions, and multivendor workflows.
+        - article [ref=e135]:
+          - heading "SaaS Architecture" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Tenant-aware modules, modular service boundaries, and maintainable product structure.
+        - article [ref=e138]:
+          - heading "POS Systems" [level=3] [ref=e139]
+          - paragraph [ref=e140]: Order sync, inventory handling, offline-first flows, and retail operations support.
+        - article [ref=e141]:
+          - heading "Payment Gateway Integration" [level=3] [ref=e142]
+          - paragraph [ref=e143]: Secure transaction flows, webhooks, refunds, transaction logging, and module reuse.
+        - article [ref=e144]:
+          - heading "Shipping API Integration" [level=3] [ref=e145]
+          - paragraph [ref=e146]: Rates, shipment creation, tracking, and carrier-specific module implementation.
+        - article [ref=e147]:
+          - heading "Performance Optimization" [level=3] [ref=e148]
+          - paragraph [ref=e149]: API response tuning, database optimization, Redis caching, and bottleneck removal.
+        - article [ref=e150]:
+          - heading "Modular Laravel Architecture" [level=3] [ref=e151]
+          - paragraph [ref=e152]: Package-oriented code organization shaped for maintainability and future extension.
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - paragraph [ref=e155]: Proof
+        - heading "Fast credibility markers for recruiters and hiring managers." [level=2] [ref=e156]
+        - paragraph [ref=e157]: A concise snapshot of delivery volume, integrations, mentoring, and platform experience.
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - generic [ref=e160]: 3+
+          - paragraph [ref=e161]: Years Experience
+        - generic [ref=e162]:
+          - generic [ref=e163]: 15+
+          - paragraph [ref=e164]: Production-ready Modules
+        - generic [ref=e165]:
+          - generic [ref=e166]: "6"
+          - paragraph [ref=e167]: Payment Integrations
+        - generic [ref=e168]:
+          - generic [ref=e169]: 3+
+          - paragraph [ref=e170]: Shipping Integrations
+        - generic [ref=e171]:
+          - generic [ref=e172]: 40+
+          - paragraph [ref=e173]: Client Customizations
+        - generic [ref=e174]:
+          - generic [ref=e175]: 30%
+          - paragraph [ref=e176]: API Performance Improvement
+        - generic [ref=e177]:
+          - generic [ref=e178]: "5"
+          - paragraph [ref=e179]: Junior Developers Mentored
+        - generic [ref=e180]:
+          - generic [ref=e181]: 800+
+          - paragraph [ref=e182]: Product Catalog Experience
+    - generic [ref=e183]:
+      - generic [ref=e184]:
+        - paragraph [ref=e185]: Skills
+        - heading "Validated stack breadth before project detail." [level=2] [ref=e186]
+        - paragraph [ref=e187]: Grouped by engineering responsibility so recruiters can confirm fit quickly.
+      - generic [ref=e188]:
+        - article [ref=e189]:
+          - heading "Backend" [level=3] [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]: PHP
+            - generic [ref=e193]: Laravel
+            - generic [ref=e194]: Bagisto
+            - generic [ref=e195]: REST API
+            - generic [ref=e196]: GraphQL API
+            - generic [ref=e197]: Modular Architecture
+            - generic [ref=e198]: Multi-Tenant SaaS
+        - article [ref=e199]:
+          - heading "Frontend" [level=3] [ref=e200]
+          - generic [ref=e201]:
+            - generic [ref=e202]: Vue.js
+            - generic [ref=e203]: JavaScript
+            - generic [ref=e204]: Tailwind CSS
+            - generic [ref=e205]: HTML5
+            - generic [ref=e206]: CSS3
+            - generic [ref=e207]: Vite
+        - article [ref=e208]:
+          - heading "Database / Cache" [level=3] [ref=e209]
+          - generic [ref=e210]:
+            - generic [ref=e211]: MySQL
+            - generic [ref=e212]: MongoDB
+            - generic [ref=e213]: Redis
+        - article [ref=e214]:
+          - heading "Commerce Domains" [level=3] [ref=e215]
+          - generic [ref=e216]:
+            - generic [ref=e217]: Marketplace
+            - generic [ref=e218]: SaaS
+            - generic [ref=e219]: POS
+            - generic [ref=e220]: Payment Modules
+            - generic [ref=e221]: Shipping Modules
+            - generic [ref=e222]: PWA
+            - generic [ref=e223]: HyperLocal
+            - generic [ref=e224]: GroupBuy
+            - generic [ref=e225]: FAQ
+        - article [ref=e226]:
+          - heading "Tools" [level=3] [ref=e227]
+          - generic [ref=e228]:
+            - generic [ref=e229]: Git
+            - generic [ref=e230]: GitHub
+            - generic [ref=e231]: Linux
+            - generic [ref=e232]: PHPUnit
+            - generic [ref=e233]: WordPress
+            - generic [ref=e234]: Agile Development
+    - generic [ref=e235]:
+      - generic [ref=e236]:
+        - paragraph [ref=e237]: Professional Projects
+        - heading "Supporting proof across marketplace, SaaS, POS, payments, shipping, and analytics." [level=2] [ref=e238]
+        - paragraph [ref=e239]: These projects reinforce breadth and production relevance without competing with the NewsTech flagship section.
+      - generic [ref=e240]:
+        - article [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e243]: Marketplace
+            - generic [ref=e244]: SaaS
+            - generic [ref=e245]: Bagisto
+          - heading "Bagisto Marketplace & Multi-Tenant SaaS Platform" [level=3] [ref=e246]
+          - paragraph [ref=e247]: Built marketplace and SaaS modules with seller dashboards, commission management, tenant isolation, storefront management, and admin controls.
+          - generic [ref=e248]:
+            - generic [ref=e249]: Laravel
+            - generic [ref=e250]: Bagisto
+            - generic [ref=e251]: Vue.js
+            - generic [ref=e252]: MySQL
+            - generic [ref=e253]: Redis
+        - article [ref=e254]:
+          - generic [ref=e255]:
+            - generic [ref=e256]: POS
+            - generic [ref=e257]: Retail Operations
+            - generic [ref=e258]: Offline Flow
+          - heading "POS System" [level=3] [ref=e259]
+          - paragraph [ref=e260]: Developed a POS module with real-time order sync, inventory handling, barcode support, invoice generation, and offline-capable transaction flow.
+          - generic [ref=e261]:
+            - generic [ref=e262]: Laravel
+            - generic [ref=e263]: Vue.js
+            - generic [ref=e264]: MySQL
+            - generic [ref=e265]: IndexedDB
+        - article [ref=e266]:
+          - generic [ref=e267]:
+            - generic [ref=e268]: Payments
+            - generic [ref=e269]: Integrations
+            - generic [ref=e270]: Bagisto
+          - heading "Payment Gateway Suite" [level=3] [ref=e271]
+          - paragraph [ref=e272]: Integrated multiple payment gateways as standalone Bagisto modules with secure transaction flows, webhook handling, refunds, and transaction logs.
+          - generic [ref=e273]:
+            - generic [ref=e274]: Laravel
+            - generic [ref=e275]: PHP
+            - generic [ref=e276]: REST APIs
+        - article [ref=e277]:
+          - generic [ref=e278]:
+            - generic [ref=e279]: Shipping
+            - generic [ref=e280]: Carrier APIs
+            - generic [ref=e281]: Commerce Ops
+          - heading "Shipping Integration Modules" [level=3] [ref=e282]
+          - paragraph [ref=e283]: Built shipping modules for rate calculation, shipment creation, tracking, and carrier-specific API integrations across multiple logistics flows.
+          - generic [ref=e284]:
+            - generic [ref=e285]: Laravel
+            - generic [ref=e286]: Bagisto
+            - generic [ref=e287]: REST APIs
+        - article [ref=e288]:
+          - generic [ref=e289]:
+            - generic [ref=e290]: eCommerce
+            - generic [ref=e291]: Catalog Scale
+            - generic [ref=e292]: Performance
+          - heading "Bullion Store eCommerce Platform" [level=3] [ref=e293]
+          - paragraph [ref=e294]: Developed a bullion and precious metals eCommerce platform with 800+ products, dynamic pricing, category management, and MongoDB optimization.
+          - generic [ref=e295]:
+            - generic [ref=e296]: Laravel
+            - generic [ref=e297]: Bagisto
+            - generic [ref=e298]: Vue.js
+            - generic [ref=e299]: MongoDB
+        - article [ref=e300]:
+          - generic [ref=e301]:
+            - generic [ref=e302]: CRM
+            - generic [ref=e303]: Analytics
+            - generic [ref=e304]: Business Tools
+          - heading "CRM & Business Analytics Dashboard" [level=3] [ref=e305]
+          - paragraph [ref=e306]: Built CRM and analytics features including lead tracking, pipeline visibility, KPI dashboards, follow-up automation, and business reporting.
+          - generic [ref=e307]:
+            - generic [ref=e308]: Laravel
+            - generic [ref=e309]: JavaScript
+            - generic [ref=e310]: MySQL
+    - generic [ref=e311]:
+      - generic [ref=e312]:
+        - paragraph [ref=e313]: Experience
+        - heading "Delivery history across product modules, integrations, and team contribution." [level=2] [ref=e314]
+        - paragraph [ref=e315]: Timeline-focused experience with clear emphasis on shipped work and operational impact.
+      - generic [ref=e316]:
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - heading "Software Developer" [level=3] [ref=e322]
+              - paragraph [ref=e323]: Webkul Software Pvt Ltd
+            - paragraph [ref=e324]: 2023 – Present
+          - list [ref=e325]:
+            - listitem [ref=e326]:
+              - generic [ref=e328]: Designed and delivered 15+ Bagisto modules from scratch across marketplace, SaaS, POS, GroupBuy, HyperLocal, PWA, and FAQ domains.
+            - listitem [ref=e329]:
+              - generic [ref=e331]: Built payment gateway integrations and shipping modules with real-time rate calculation flows.
+            - listitem [ref=e332]:
+              - generic [ref=e334]: Completed 40+ client customizations and contributed to multi-tenant SaaS architecture work.
+            - listitem [ref=e335]:
+              - generic [ref=e337]: Optimized APIs and database queries while mentoring 5 junior developers in a team of around 28 engineers.
+        - generic [ref=e340]:
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - heading "PHP Developer" [level=3] [ref=e343]
+              - paragraph [ref=e344]: Agami Technologies
+            - paragraph [ref=e345]: "2022"
+          - list [ref=e346]:
+            - listitem [ref=e347]:
+              - generic [ref=e349]: Developed a Bagisto-based bullion store eCommerce platform with a catalog of 800+ products.
+            - listitem [ref=e350]:
+              - generic [ref=e352]: Contributed to ERP-related modules and Vue.js frontend features.
+            - listitem [ref=e353]:
+              - generic [ref=e355]: Optimized MongoDB queries and participated in agile delivery and deployment work.
+    - generic [ref=e357]:
+      - generic [ref=e358]:
+        - paragraph [ref=e359]: Education
+        - heading "Academic background" [level=2] [ref=e360]
+        - paragraph [ref=e361]: Kept compact to support the professional sections rather than compete with them.
+      - generic [ref=e362]:
+        - article [ref=e363]:
+          - heading "Master of Computer Applications" [level=3] [ref=e364]
+          - paragraph [ref=e365]: IGNOU
+          - paragraph [ref=e366]: Completed 2024
+        - article [ref=e367]:
+          - heading "Bachelor's Degree" [level=3] [ref=e368]
+          - paragraph [ref=e369]: University of Delhi
+        - article [ref=e370]:
+          - heading "Diploma in Computer Science" [level=3] [ref=e371]
+    - generic [ref=e373]:
+      - generic [ref=e374]: Latest Focus
+      - generic [ref=e375]:
+        - paragraph [ref=e376]: GitHub / Open Source
+        - heading "Public proof that complements the recruiter story." [level=2] [ref=e377]
+        - paragraph [ref=e378]: I actively publish practical engineering work on GitHub, with NewsTech serving as the latest public example of how I structure modular Laravel products.
+      - paragraph [ref=e379]: "Latest Focus: NewsTech — modular Laravel CMS architecture, admin workflows, reader features, and SEO foundations."
+      - generic [ref=e380]:
+        - link "View GitHub Profile" [ref=e381] [cursor=pointer]:
+          - /url: https://github.com/devrohansisodia
+        - link "View NewsTech Repository" [ref=e382] [cursor=pointer]:
+          - /url: https://github.com/devrohansisodia/newstech
+        - link "Download Resume" [ref=e383] [cursor=pointer]:
+          - /url: /resume/rohan-singh-resume.pdf
+    - generic [ref=e385]:
+      - generic [ref=e386]:
+        - generic [ref=e387]:
+          - paragraph [ref=e388]: Contact
+          - heading "Open to Laravel, Bagisto, Vue.js, backend, and product engineering opportunities." [level=2] [ref=e389]
+          - paragraph [ref=e390]: Reach out directly or use the message form to open a pre-filled email draft.
+        - generic [ref=e391]:
+          - generic [ref=e392]:
+            - paragraph [ref=e393]: Email
+            - link "rohan222210@gmail.com" [ref=e394] [cursor=pointer]:
+              - /url: mailto:rohan222210@gmail.com
+          - generic [ref=e395]:
+            - paragraph [ref=e396]: Phone
+            - link "+91-9971457371" [ref=e397] [cursor=pointer]:
+              - /url: tel:+919971457371
+          - generic [ref=e398]:
+            - paragraph [ref=e399]: LinkedIn
+            - link "linkedin.com/in/rohan-singh" [ref=e400] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/rohan-singh
+          - generic [ref=e401]:
+            - paragraph [ref=e402]: GitHub
+            - link "github.com/devrohansisodia" [ref=e403] [cursor=pointer]:
+              - /url: https://github.com/devrohansisodia
+          - generic [ref=e404]:
+            - paragraph [ref=e405]: Location
+            - paragraph [ref=e406]: Delhi, India
+      - generic [ref=e407]:
+        - paragraph [ref=e408]: Send a Message
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - generic [ref=e411]: Name
+            - textbox "Name" [ref=e412]:
+              - /placeholder: Your name
+          - generic [ref=e413]:
+            - generic [ref=e414]: Email
+            - textbox "Email" [ref=e415]:
+              - /placeholder: you@example.com
+          - generic [ref=e416]:
+            - generic [ref=e417]: Message
+            - textbox "Message" [ref=e418]:
+              - /placeholder: Tell me about the role, project, or opportunity.
+          - button "Send Message" [ref=e419] [cursor=pointer]
+  - contentinfo [ref=e420]:
+    - generic [ref=e421]:
+      - paragraph [ref=e422]: Rohan Singh · Laravel / Bagisto / Vue.js Developer
+      - generic [ref=e423]:
+        - link "GitHub" [ref=e424] [cursor=pointer]:
+          - /url: https://github.com/devrohansisodia
+        - link "LinkedIn" [ref=e425] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/rohan-singh
+        - link "Email" [ref=e426] [cursor=pointer]:
+          - /url: mailto:rohan222210@gmail.com
