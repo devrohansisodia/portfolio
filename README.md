@@ -50,7 +50,7 @@ npm run dev
 
 Because Vite uses `/` by default unless `VITE_BASE_PATH` is provided.
 
-### GitHub Pages Setup
+### GitHub Pages Setup With GitHub Actions
 
 1. Push this project to a GitHub repository named `portfolio`.
 2. Run the production build for repository deployment:
@@ -60,13 +60,17 @@ VITE_BASE_PATH=/portfolio/ npm run build
 ```
 
 3. Commit and push the project to GitHub.
-4. In GitHub, open the repository settings.
-5. Go to `Settings` → `Pages`.
-6. Under `Build and deployment`, choose the source you want to use.
-7. If deploying manually, publish the contents of `dist/` using your preferred workflow.
-8. If using GitHub Pages from a branch later, ensure the built output being published was generated with `VITE_BASE_PATH=/portfolio/`.
+4. The repository includes `.github/workflows/deploy.yml`, which builds and deploys the site on every push to `main`.
+5. In GitHub, open `Settings` → `Pages`.
+6. Under `Build and deployment`, set `Source` to `GitHub Actions`.
+7. Push to `main` to trigger the workflow and publish the `dist/` output to GitHub Pages.
 
-This project does not configure automatic deployment by default.
+The workflow uses:
+
+- Node.js LTS
+- `npm ci`
+- `VITE_BASE_PATH=/portfolio/ npm run build`
+- GitHub Pages artifact upload and deployment actions
 
 ### Future Custom Domain
 
